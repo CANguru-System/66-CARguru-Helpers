@@ -1,0 +1,15 @@
+In Sprint-Layout:
+Umrisse als Feld auswerfen
+
+In FlatCAM
+outline.gbr laden
+in Project: outline.gbr markieren
+in Selected: Isolation Routing / Generate Geometry - Tool dia: 0.6
+in Project: outline.gbr_iso markieren
+in der Toolleiste: Edit Geometry, dann Rechteck auswählen, Rechtecke einzeichnen
+dann Select 'Esc', dann blauen Umriss und anschließend Rechtecke anklicken, dabei Ctrl - Taste halten,
+dann "Cut Path", dann Rechteck anklicken, dann "Delete Shape", dann "Update Geometry"
+in Selected: Create CNC Job mit Cut Z = -1.6, Tool-Dia=0.6, Multi-Depth und Depth/passes=0.2 dann Generate
+in Project: outline.gbr_iso_cnc markieren
+in Selected: Export G-Code
+Speichern unter CNC als Umriss.nc

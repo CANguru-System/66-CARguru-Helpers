@@ -1,0 +1,2 @@
+insgesamt Tiefe von 0.3;
+gefräst 3 mal -0.1 mit Fräser 0.6

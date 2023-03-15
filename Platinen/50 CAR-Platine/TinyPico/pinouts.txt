@@ -1,0 +1,11 @@
+loudspeakerPin GPIO_NUM_5
+motorPin GPIO_NUM_1
+directionPin GPIO_NUM_2
+lamp0 GPIO_NUM_35
+lamp1 GPIO_NUM_37
+lamp2 GPIO_NUM_36
+lamp3 GPIO_NUM_34
+lamp4 GPIO_NUM_9
+lamp5 GPIO_NUM_8
+lamp6 GPIO_NUM_7
+lamp7 GPIO_NUM_6

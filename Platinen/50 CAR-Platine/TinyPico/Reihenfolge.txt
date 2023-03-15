@@ -1,0 +1,9 @@
+1. Height feststellen mit Hauptplatine/Kupfer
+2. Fräsen Motorausschnitt/Umriss mit 0.6
+3. Fräsen Motorausschnitt/Vorderachse mit 0.6
+4. Fräsen Akkuhalter/Ausschnitt mit 0.6
+5. Fräsen Hauptplatine/Kupfer mit Fräse
+6. Fräsen Hauptplatine/Umriss mit 0.6
+7. Bohren mit 0.8
+8. Bohren mit 1.0
+9. Bohren mit 1.5
